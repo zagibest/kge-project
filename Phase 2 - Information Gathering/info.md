@@ -1,1 +1,1 @@
-In this directory you have store all the material (resources included) considered for the information gathering phase
+This section details the comprehensive data collection and processing steps undertaken to gather footway-specific information for Ulaanbaatar's streets. Utilizing Humanitarian OpenStreetMap Team (HOT) as a primary source, we aimed to assemble a dataset that allows for the detailed representation of pedestrian pathways within the urban fabric of the city.
